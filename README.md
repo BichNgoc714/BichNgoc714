@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/BichNgoc148/BichNgoc148/main/images/BongoCat2.gif" width="200">
+  <img src="https://raw.githubusercontent.com/BichNgoc148/BichNgoc148/main/images/bongoCat.gif" width="200">
 </p>
 
 
